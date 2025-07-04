@@ -2,12 +2,11 @@
 name = "git-statuses"
 description = "A tool to display git repository statuses in a table format"
 repository = "https://github.com/bircni/cargo-wash"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["bircni"]
 edition = "2024"
 license = "MIT"
 readme = "README.md"
-categories = ["development-tools::git-plugins"]
 keywords = ["git", "status", "repository", "plugin", "cli"]
 exclude = ["src/tests/*"]
 
