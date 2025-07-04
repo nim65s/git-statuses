@@ -21,6 +21,7 @@ rayon = "1.10.0"
 parking_lot = "0.12.4"
 
 [dev-dependencies]
+insta = { version = "1.43", features = ["json"] }
 tempfile = "3.10"
 
 [lints.rust]

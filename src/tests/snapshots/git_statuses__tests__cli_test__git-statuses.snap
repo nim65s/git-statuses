@@ -1,0 +1,29 @@
+---
+source: src/tests/cli_test.rs
+expression: help_text
+---
+A tool to display git repository statuses in a table format
+
+Usage: git-statuses [OPTIONS] [DIR]
+
+Arguments:
+  [DIR]
+          Directory to scan
+          
+          [default: .]
+
+Options:
+  -a, --all
+          Recursively scan all subdirectories
+
+  -r, --remote
+          Show remote URL
+
+  -s, --summary
+          Show a summary of the scan
+
+  -h, --help
+          Print help
+
+  -V, --version
+          Print version
