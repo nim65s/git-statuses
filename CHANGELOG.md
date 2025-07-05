@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+## [0.2.0](https://github.com/bircni/git-statuses/compare/0.1.0..0.2.0) - 2025-07-05
+
+### Bug Fixes
+
+- update fetch_origin documentation to English - ([6dffc1c](https://github.com/bircni/git-statuses/commit/6dffc1c7e1829a7d68ea527ea89915f34ad421d9)) - Nicolas
+
+### Documentation
+
+- add image as example - ([2368975](https://github.com/bircni/git-statuses/commit/2368975b09f133c18299b09137e21147c709f2c2)) - Nicolas
+
+### Features
+
+- add fetch option to CLI - ([ab89ee2](https://github.com/bircni/git-statuses/commit/ab89ee2247483002cbf137cca5f3c94835fa6941)) - Nicolas
+
+### Linting
+
+- collapse if let Statements (Rust > 1.88) - ([8bc32d1](https://github.com/bircni/git-statuses/commit/8bc32d1bd47d2a9e48f1408a9137213bae925912)) - Nicolas
+
+### Tests
+
+- update test-files to match new cli options - ([1e31aed](https://github.com/bircni/git-statuses/commit/1e31aed7984ab8a2a9118138d6a1511e060e1e30)) - Nicolas
+
+### Build
+
+- enable correct deployments - ([462c9ae](https://github.com/bircni/git-statuses/commit/462c9ae71c957b72ec276a45a0f84cb653c7b047)) - Nicolas
+
 ## [0.1.0](https://github.com/bircni/git-statuses/compare/0.0.1..0.1.0) - 2025-07-04
 
 ### Features
