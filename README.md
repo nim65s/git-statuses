@@ -13,7 +13,7 @@ A command-line tool to display the status of multiple Git repositories in a clea
 - Fast and user-friendly CLI
 - Useful for developers managing many repositories
 
-![Example](./doc/example.png)
+![Example](https://github.com/user-attachments/assets/fe5a2b53-2924-4886-8810-5b9a39b62beb)
 
 ## Installation
 
