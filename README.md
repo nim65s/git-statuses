@@ -42,14 +42,19 @@ cargo build --release
 Run in any directory to scan for Git repositories:
 
 ```text
-Usage: git-statuses [OPTIONS] [DIR]
+A tool to display git repository statuses in a table format
+
+Usage: git-statuses.exe [OPTIONS] [DIR]
 
 Arguments:
   [DIR]  Directory to scan [default: .]
 
 Options:
-  -a, --all      Recursively scan all subdirectories
+  -d, --depth    Recursively scan all subdirectories to the given depth. If set to 1, only the current directory is scanned
   -r, --remote   Show remote URL
+  -s, --summary  Show a summary of the scan
+  -f, --fetch    Run a fetch before scanning to update the repository state Note: This may take a while for large repositories
+  -l, --legend   Print a legend explaining the color codes and statuses used in the output
   -h, --help     Print help
   -V, --version  Print version
 ```

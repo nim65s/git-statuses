@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+## [0.3.0](https://github.com/bircni/git-statuses/compare/0.2.1..0.3.0) - 2025-07-05
+
+### Bug Fixes
+
+- fetch option to not destroy the whole process on failure - ([fe2c166](https://github.com/bircni/git-statuses/commit/fe2c166f74ccdb20bae0f8e146750017bcfe7f30)) - Nicolas
+- update summary function to include failed repositories count - ([16a7f1e](https://github.com/bircni/git-statuses/commit/16a7f1ef8d7c4649154b1fbc78b094d60c57e307)) - Nicolas
+
+### Documentation
+
+- enhance documentation for RepoInfo constructor and utility functions - ([ae9f440](https://github.com/bircni/git-statuses/commit/ae9f44095dca59531abfa9bdc4257236acc026d9)) - Nicolas
+
+### Features
+
+- add a legend to explain the styles & enhance the printing output styling - ([5e1036d](https://github.com/bircni/git-statuses/commit/5e1036dd306066fad8ac5ab863ba01994935a985)) - Nicolas
+
 ## [0.2.1](https://github.com/bircni/git-statuses/compare/0.2.0..0.2.1) - 2025-07-05
 
 ### Bug Fixes
