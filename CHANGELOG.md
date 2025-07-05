@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+## [0.2.1](https://github.com/bircni/git-statuses/compare/0.2.0..0.2.1) - 2025-07-05
+
+### Bug Fixes
+
+- repository url was set to a wrong repo - ([68a02da](https://github.com/bircni/git-statuses/commit/68a02da391d0edc42fcd81eaca3204c137b03cc3)) - Nicolas
+- README example image - ([a5d4da9](https://github.com/bircni/git-statuses/commit/a5d4da9c41842d81a232abe94ce99c6d4bb8a745)) - Nicolas
+
 ## [0.2.0](https://github.com/bircni/git-statuses/compare/0.1.0..0.2.0) - 2025-07-05
 
 ### Bug Fixes
