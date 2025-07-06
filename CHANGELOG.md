@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+## [0.3.1](https://github.com/bircni/git-statuses/compare/0.3.0..0.3.1) - 2025-07-06
+
+### Bug Fixes
+
+- depth is not a bool ([#5](https://github.com/bircni/git-statuses/issues/5)) - ([63f8d96](https://github.com/bircni/git-statuses/commit/63f8d9625feab551de4f7baf3e327b06f79b219f)) - Guilhem Saurel
+
+### Documentation
+
+- update minimal rust version in README ([#6](https://github.com/bircni/git-statuses/issues/6)) - ([0789d45](https://github.com/bircni/git-statuses/commit/0789d450554b7d5f30a38033f0b3a1640a68929d)) - Guilhem Saurel
+
 ## [0.3.0](https://github.com/bircni/git-statuses/compare/0.2.1..0.3.0) - 2025-07-05
 
 ### Bug Fixes
